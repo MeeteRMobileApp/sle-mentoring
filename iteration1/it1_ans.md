@@ -1,6 +1,7 @@
 #Part 1 (Project-oriented)
 ##Questions to Answer for the Project BEFORE completion (20 words or less)
 1. What types of HTTP Requests are there? What are the two most common?
+<<<<<<< HEAD
 2. How do I link my HTML file to my CSS file, my Javascript file to my HTML webpage?
 3. What is an API?
 4. What is a SPA (Single page application)?
@@ -8,6 +9,31 @@
 6. What is REST?
 7. What is JSON?
 8. What is the separation of presentation and content? How does it apply to HTML/CSS/JS?
+=======
+	* GET & POST are the two most common HTTP Requests; others are PUT, DELETE, HEAD, TRACE, and CONNECT
+2. How do I link my HTML file to my CSS file, my Javascript file to my HTML webpage?
+	* HTML file to my CSS file: `<link rel="stylesheet" type="text/css" href="~/filepath/mystyle.css">`
+	Javascript file to HTML webpage: `<script type="text/javascript" src="~/filepath/script.js"></script>`
+3. What is an API?
+	* API stands for Application Program Interface, and is essentially a gateway that allows exteral programs access to 
+	internal functionality in a standard fashion.
+4. What is a SPA (Single page application)?
+	* A website that always keeps you on the same page.
+5. What is a callback in Javascript? Why are they so fundamental to JS?
+	* A callback is a way of waiting until something has happened before moving on to the next task. This is fundamental to 
+	JS because without callback functions, there would be no way to tell when the data had been retrieved and is ready
+	to be processed.
+6. What is REST?
+	* REST stands for Representational State Transfer; essentially a collection of suggestions on how your client and server 
+	should talk to each other.
+7. What is JSON?
+	* JSON stands for JavaScript Object Notation; a specification for how you can "serialize" a data object. 
+8. What is the separation of presentation and content? How does it apply to HTML/CSS/JS?
+	* Seperation of presentation and content is the idea that each section addresses a seperate concern. It applies to HTML/CSS/JS in a
+	philosophy that the best practice is to decouple the HTML: web structure, CSS: the styling, and JS: the dynamic functions in your 
+	web page to keep each into distinct sections.
+
+>>>>>>> fa3dd7fef2adeacfb8d562b0b32a499afe8ec4f4
 
 ##Project Summary
 Create a web page with a button that says "Get Menu" on it. Upon clicking it,
