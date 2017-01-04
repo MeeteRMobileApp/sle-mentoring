@@ -37,6 +37,9 @@ No other tools are allowed.
 
 
 #Part 2: (Fundamentals of Javascript)
+Watch:
+Frontendmasters: fundamentals to functional js - credentials given via text
+
 ##Arrays (Memorize Each)
 **Motive:** Javascript is a small enough language to easily familiarize and gain proficiency within a couple days. Doing so will speed your dev process up incredibly. 
 1. Array.prototype.push()
@@ -47,7 +50,7 @@ No other tools are allowed.
 6. Array.prototype.length;
 
 ##The language
- * Some call Javascript a functional language, others call it an imperative language, others an object-oriented language. Which is it?
+ * Some call Javascript a functional language, others call it an imperative language, others an object-oriented language. What do these terms mean and which is it? 
 
 * The phrase "functions are first class citizens" is thrown around frequently in JS land. What does this mean?
 
