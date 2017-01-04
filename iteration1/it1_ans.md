@@ -39,7 +39,7 @@
 Create a web page with a button that says "Get Menu" on it. Upon clicking it,
 it should load all the data at a given endpoint by sending an HTTP Request and display it below the button dynamically (that is without refreshing the page).
 
-The endpoint: www.demo3354820.mockable.io/menu/sushi
+The endpoint: http://demo3354820.mockable.io/menu/sushi
 
 ###Requirements
 The project should be submitted within this repository under the directory iteration1
